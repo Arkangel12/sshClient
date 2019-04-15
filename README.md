@@ -13,3 +13,7 @@ host: test.rebex.net
 user: demo
 pass: password
 ``` 
+
+Thanks to @johanfree who create this amazing robot animation in 2Dimensions which i fork it and use it as a final touch. 
+
+This is a beta version, hope you enjoy it!
